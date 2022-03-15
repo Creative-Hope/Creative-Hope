@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Creative-Hope
-- 👀 I’m interested in Machine Learning Engineering
+- 👀 I’m interested in Machine Learning Engineering and Data science
 - 🌱 I’m currently learning by Self Study
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ykosikayya@gmail.com
