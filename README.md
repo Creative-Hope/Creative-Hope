@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Creative-Hope
+- 👋 Hi, I’m Yogesh Kosikayya
 - 👀 I’m interested in Machine Learning Engineering and Data science
 - 🌱 I’m currently learning by Self Study
 - 💞️ I’m looking to collaborate on various projects
